@@ -1,0 +1,9 @@
+streamlit>=1.33
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+python-docx>=1.1.0
+pytz
+
+numpy>=1.24
+sentence-transformers>=2.6
